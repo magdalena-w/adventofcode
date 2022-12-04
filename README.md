@@ -3,3 +3,4 @@ My attempts at solving the puzzles at <b>Advent of Code</b> challenges.
 <h3>Problems list:</h3>
 1. Calories counting <br>
 2. Rock, paper, scissors
+3. Rucksack packing & priority
