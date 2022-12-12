@@ -7,3 +7,4 @@ My attempts at solving the puzzles at <b>Advent of Code</b> challenges.
 4. Camp cleanup <br>
 5. Supply Stacks <br>
 6. Tuning Trouble <br>
+7. No Space Left On Device <br>
